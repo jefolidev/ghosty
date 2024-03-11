@@ -1,0 +1,2 @@
+# ghosty
+Bot for Discord
